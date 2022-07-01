@@ -36,3 +36,9 @@ input {
 img {
 	max-width: 300px;
 }
+
+button {
+	background-color: rgb(51, 142, 228) ;
+	width: 100px;
+	height: 50px;
+}
